@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=Mohamed%20Ameen&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=Mohamed%20Amin&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 # 💫 About Me:
-👋 Hi, I'm Mohamed Ameen  
+👋 Hi, I'm Mohamed Amin  
 
 💻 Backend .NET Developer with 3+ years of experience building scalable and maintainable systems.
 
@@ -27,8 +27,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amin98)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.amin9821@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amin98) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.amin9821@gmail.com)
 
 ---
 
